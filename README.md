@@ -2,7 +2,7 @@
 
 A powerful set of 15+ advanced Blueprint debugging tools designed to speed up development, improve visualization, and keep your workflow clean. From categorized logging to directional arrows, this is your new go-to utility for runtime debugging in UE5.4+.
 
-> 🔧 Built for **Unreal Engine 5.4**  
+> 🔧 Built for **Unreal Engine 5.3+**  
 > 🧠 Ideal for solo devs, tool creators, or teams needing runtime insight  
 > 💻 All nodes live in `Debug → Advanced` under Blueprint editor
 
