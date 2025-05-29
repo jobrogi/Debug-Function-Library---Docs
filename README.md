@@ -44,6 +44,20 @@ Below is a full list of Blueprint nodes included in the library:
 
 ---
 
+## 🗃️ File Logging Location
+
+Using the `LogDebugToFile()` function? Here's where your saved logs end up:
+
+- **Folder Path:** `[YourProject]/Saved/[FolderName]/[FileName].txt`
+- For example: `Saved/Logs/GameplayDebug.txt`
+
+You can specify both the folder and file name via Blueprint when calling the function.
+
+✅ Log messages are timestamped and appended to the file.  
+✅ The log folder will auto-create if it doesn’t exist.
+
+This is useful for saving runtime debug sessions for review after a crash, playtest, or session reset.
+
 ## 📂 How Debug Categories Work
 
 You can use `SetDebugCategoryEnabled("MyCategory", false)` to toggle off a category and mute all associated messages or visuals. Every log respects its category status before displaying.
@@ -78,8 +92,7 @@ The system stores up to 50 recent messages.
 
 Need help or want to request a feature?
 
-Visit: [https://ghilliestudios.com/support](https://ghilliestudios.com/support)  
-Or email: `support@ghilliestudios.com`
+Email: `Jobrogi@gmail.com`
 
 ---
 
@@ -89,4 +102,4 @@ This plugin is sold for commercial and personal use. Redistribution or resale of
 
 ---
 
-Made with ❤️ by Ghillie Studios
+Made by Ghillie Studios
