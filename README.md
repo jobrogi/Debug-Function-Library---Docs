@@ -45,10 +45,12 @@ You can now integrate debug tools into any Blueprint:
 Use these steps with screenshots for a more visual setup process:
 
 ✅ **Enable the Plugin in the Plugin Browser**  
+
 ![Plugin Enabled](https://github.com/user-attachments/assets/68bafbb5-5e20-4cbc-9b28-6f5e81fd89df)
 
 
-✅ **Right-Click in Graph → Debug → Advanced**  
+✅ **Right-Click in (Your Blueprint) Graph → Debug → Advanced**  
+
 ![Blueprint Context Menu](https://github.com/user-attachments/assets/050a0558-8c90-4b43-847b-597e766ca62b)
 
 
