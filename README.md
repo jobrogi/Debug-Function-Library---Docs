@@ -8,7 +8,7 @@ A powerful set of 15+ advanced Blueprint debugging tools designed to speed up de
 
 ---
 
-🔧 Setup Instructions
+## 🔧 Setup Instructions
 Follow these steps to install and begin using the Debug Function Library in your Unreal Engine 5.3+ project.
 
 1. Enable the Plugin
