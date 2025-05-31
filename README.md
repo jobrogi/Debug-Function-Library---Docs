@@ -70,12 +70,13 @@ Below is a full list of Blueprint nodes included in the library:
 | `DrawDebugPath` | Connects an array of points with debug lines (great for pathfinding). |
 | `DrawDebugSphereArray` | Draws a series of debug spheres for visualizing many points. |
 | `HighlightActorOnce` | Draws a debug box around an actor’s bounds. |
-| `LogActorComponentHierarchy` | Logs the actor's component tree to console/log. |
-| `RunDebugConsoleCommand` | Executes a console command and stores it in the debug log. |
+| `LogActorComponentHierarchy` | Logs the actor's component tree to the log and debug history. |
+| `RunDebugConsoleCommand` | Executes a console command and logs it to the debug history. |
+| `LogDebugToFile` | Appends a message to a text file in the `Saved` directory with timestamp. |
 | `GetRecentDebugMessages` | Returns the full runtime history of recent debug messages. |
 | `ClearAllDebugLines` | Clears all persistent debug visuals from the current world. |
-| `SetDebugCategoryEnabled` | Enables/disables individual categories for runtime control. |
-| `IsDebugCategoryEnabled` | Checks if a specific debug category is currently active. |
+| `SetDebugCategoryEnabled` | Enables or disables a debug category at runtime. |
+| `IsDebugCategoryEnabled` | Checks if a specific debug category is currently enabled. |
 
 ---
 
