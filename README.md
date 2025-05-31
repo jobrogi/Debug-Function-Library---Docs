@@ -9,42 +9,45 @@ A powerful set of 15+ advanced Blueprint debugging tools designed to speed up de
 ---
 
 ## 🔧 Setup Instructions
-Follow these steps to install and begin using the Debug Function Library in your Unreal Engine 5.3+ project.
 
-1. Enable the Plugin
-To activate the plugin in your project:
+Get started quickly by following these steps to install and begin using the **Debug Function Library** in your Unreal Engine 5.3+ project.
 
-Open Edit → Plugins from the top menu bar.
+---
 
-In the Plugins window, search for Debug Function Library.
+### 1️⃣ Enable the Plugin
 
-Enable the plugin by checking the box.
+To activate the plugin:
 
-Restart the Unreal Editor (required the first time you enable the plugin).
+1. Open **Edit → Plugins** from the main toolbar.
+2. In the Plugins window, search for **Debug Function Library**.
+3. Check the box to enable the plugin.
+4. Restart the Unreal Editor.
 
-✅ Once restarted, the plugin is fully loaded and ready for use.
+> ✅ Once restarted, the plugin is fully loaded and ready for use.
 
-2. Using the Debug Nodes in Blueprint
-You can now begin integrating the debug tools into any Blueprint in your project:
+---
 
-Open or create a Blueprint Actor, Function Library, or any Blueprint class where you want to use debug tools.
+### 2️⃣ Use the Debug Nodes in Blueprint
 
-In the Event Graph, Right-Click to open the Blueprint node context menu.
+You can now integrate debug tools into any Blueprint:
 
-Navigate to Debug → Advanced to find all available debug nodes provided by the plugin.
+1. Open or create a **Blueprint Actor**, **Function Library**, or any Blueprint class.
+2. In the **Event Graph**, **Right-click** to open the context menu.
+3. Navigate to **Debug → Advanced**.
+4. Select any available debug node and place it into your graph.
 
-Select and place the desired debug node into your graph.
+> 💡 All nodes are organized under a single category for clean access.
 
-💡 All nodes are organized under a single category for quick access.
+---
 
-3. (Optional) Visual Guide
-To make setup even easier, here are step-by-step images showing the process:
+### 3️⃣ Optional: Visual Guide (Insert Screenshots)
 
-✅ [Insert Image: Plugin Enabled in Plugin Browser]
+Use these steps with screenshots for a more visual setup process:
 
-✅ [Insert Image: Right-Click in Graph → Debug → Advanced]
+- ✅ *[Insert Image: Plugin Enabled in Plugin Browser]*
+- ✅ *[Insert Image: Right-Click in Graph → Debug → Advanced]*
+- ✅ *[Insert Image: Node Placed and Ready to Use]*
 
-✅ [Insert Image: Node placed and ready for use]
 
 ## 🧩 Function Overview
 
