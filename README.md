@@ -8,16 +8,43 @@ A powerful set of 15+ advanced Blueprint debugging tools designed to speed up de
 
 ---
 
-## 🚀 Getting Started
+🔧 Setup Instructions
+Follow these steps to install and begin using the Debug Function Library in your Unreal Engine 5.3+ project.
 
-After purchasing or installing the plugin:
+1. Enable the Plugin
+To activate the plugin in your project:
 
-1. Open **Edit → Plugins**.
-2. Search for **Debug Function Library**.
-3. Enable the plugin.
-4. Restart the engine (required after first activation).
+Open Edit → Plugins from the top menu bar.
 
----
+In the Plugins window, search for Debug Function Library.
+
+Enable the plugin by checking the box.
+
+Restart the Unreal Editor (required the first time you enable the plugin).
+
+✅ Once restarted, the plugin is fully loaded and ready for use.
+
+2. Using the Debug Nodes in Blueprint
+You can now begin integrating the debug tools into any Blueprint in your project:
+
+Open or create a Blueprint Actor, Function Library, or any Blueprint class where you want to use debug tools.
+
+In the Event Graph, Right-Click to open the Blueprint node context menu.
+
+Navigate to Debug → Advanced to find all available debug nodes provided by the plugin.
+
+Select and place the desired debug node into your graph.
+
+💡 All nodes are organized under a single category for quick access.
+
+3. (Optional) Visual Guide
+To make setup even easier, here are step-by-step images showing the process:
+
+✅ [Insert Image: Plugin Enabled in Plugin Browser]
+
+✅ [Insert Image: Right-Click in Graph → Debug → Advanced]
+
+✅ [Insert Image: Node placed and ready for use]
 
 ## 🧩 Function Overview
 
